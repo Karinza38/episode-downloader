@@ -1,0 +1,23 @@
+Author- Neeraj Gupta ( ua741)
+
+"Episode Downloader"
+
+ 
+Simple (& ugly) script to download a particular episode from eztv using torrent.
+
+This is helpful when you just you are too tired to refresh the page again and again to check whether the torrent of a particular episode is out or not and feeling sleepy :D
+
+Just run this and go to back to sleep/game/movie/whatEverCrapYouAreUpTo.
+
+Instructions:-
+You will need python and rtorrent( command line torrent application) installed on your system.
+
+You will need to provide the episode id in Line 35
+http://eztv.it/shows/481/game-of-thrones/
+Here episode id is 481
+
+In Line 37, Give the details about the Series and Episode number in stand format.
+S02E07 indicates- Episode 7 of Series 2.
+
+In Line 38, Mention whether you want the MB or GB file depending upon your quality requirement.
+
